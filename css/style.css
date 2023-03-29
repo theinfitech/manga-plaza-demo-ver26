@@ -17,6 +17,12 @@ body {
   margin-bottom: 10px;
 }
 
+.image-top {
+  width: 76%;
+  display: block;
+  margin: auto;
+}
+
 .box-razzmatazz {
   margin-top: -15px;
 }
